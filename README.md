@@ -11,7 +11,7 @@
 ## BOOTSTRAPPING DATABASE
 
 > **Bootstrapping:** The application is expected to automatically bootstrap the database at startup. Bootstrapping involves the creation or updating of the schema, tables, indexes, sequences, etc.
->
+>   
 > **SQL Restrictions:** Manual SQL script setup for the database is not allowed.
 >
 > **Recommended ORM Frameworks:** Hibernate (for Java), SQLAlchemy (for Python), Sequelize (for Node.js).
