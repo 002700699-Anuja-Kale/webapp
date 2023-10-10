@@ -6,7 +6,7 @@
 >
 > **HTTP Status Codes:** As a user, I expect all API calls to return with a proper HTTP status code.
 >
-> **Code Quality:** As a user, I expect the code quality of the application to be maintained to the highest standards using the unit and/or integration tests.
+> **Code Quality:** As a user, I expect the code quality of t  he application to be maintained to the highest standards using the unit and/or integration tests.
 
 ## BOOTSTRAPPING DATABASE
 
