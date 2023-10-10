@@ -8,7 +8,7 @@
 >
 > **Code Quality:** As a user, I expect the code quality of the application to be maintained to the highest standards using the unit and/or integration tests.
 
-## BOOTSTRAPPING DATABASE
+## BOOTSTRAPPING DATABASEjbhb
 
 > **Bootstrapping:** The application is expected to automatically bootstrap the database at startup. Bootstrapping involves the creation or updating of the schema, tables, indexes, sequences, etc.
 >
